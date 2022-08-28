@@ -1,4 +1,4 @@
-
+print("Made By: Logan#6915 And: _toast_#0889")
 local Skids = {"Slowboi106soul","TheSon99"}
 
 local CmdGui = Instance.new("ScreenGui")
